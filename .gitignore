@@ -1,0 +1,3 @@
+# Bỏ qua các file CSV lớn
+Data/TMDB_movie_dataset_2000_2025.csv
+Data/TMDB_movie_dataset_v11.csv
